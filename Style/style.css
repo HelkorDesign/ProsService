@@ -16,10 +16,10 @@ body
 }
 
 .navbar-brand img {
-    width: 150px;
+    width: 200px;
 }
 .navbar-toggler {
-    background-color: aqua;
+    background-color: #adadad;
 }
 .sidebar {
     color: aquamarine;
